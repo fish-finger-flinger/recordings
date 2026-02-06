@@ -1,4 +1,4 @@
 {
 "_base": "https://raw.githubusercontent.com/fish-finger-flinger/recordings/main/",
-"skip": ["01_bass.wav"]
+"skip": "01_bass.wav"
 }
